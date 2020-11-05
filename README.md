@@ -1,5 +1,14 @@
 # vue-mastery-intro
 
+## Demo
+![Demo](https://github.com/mbv401920150/vue-mastery-intro/blob/master/demo/demo.gif)
+Format: ![Alt Text](https://github.com/mbv401920150/vue-mastery-intro/blob/master/demo/demo.gif)
+
+## Features
+- Project using Node.JS, NPM
+- VueJS Ver 2
+- Tailwind CSS
+
 ## Project setup
 ```
 npm install
